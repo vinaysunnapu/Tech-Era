@@ -1,0 +1,45 @@
+.main-container {
+  width: 80%;
+  min-height: 100vh;
+  margin: auto;
+  box-shadow: 1px 1px 1px 1px grey;
+  padding: 20px;
+}
+.main-heading {
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: roboto;
+  margin-left: 60px;
+}
+.list-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.failure-view-heading {
+  font-family: roboto;
+  font-size: 30px;
+  font-weight: bold;
+  color: #475569;
+  text-align: center;
+}
+.failure-view-para {
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: bold;
+  color: #4656a1;
+  text-align: center;
+}
+.retry-view-button {
+  padding: 10px;
+  background-color: #4656a1;
+  border-radius: 4px;
+  color: #ffffff;
+  border: none;
+}

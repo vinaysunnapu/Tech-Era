@@ -1,0 +1,10 @@
+.nav-container {
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  background-color: #f1f5f9;
+}
+.logo {
+  width: 150px;
+  margin-left: 100px;
+}

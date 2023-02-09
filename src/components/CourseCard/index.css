@@ -1,0 +1,20 @@
+.list-item {
+  width: 20%;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  margin: 15px;
+  gap: 10px;
+  background-color: #f1f5f9;
+  padding: 20px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.logo-image {
+  width: 70px;
+}
+.course-name {
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: bold;
+}
